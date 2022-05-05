@@ -1,0 +1,71 @@
+{
+    "players": {
+        "1": {
+            "birthdate": "1990-11-30",
+            "firstname": "Magnus",
+            "id": 1,
+            "lastname": "Carlsen",
+            "rank": 2999,
+            "sexe": "M"
+        },
+        "2": {
+            "birthdate": "1992-07-30",
+            "firstname": "Fabiano",
+            "id": 2,
+            "lastname": "Caruana",
+            "rank": 2800,
+            "sexe": "M"
+        },
+        "3": {
+            "birthdate": "1992-10-24",
+            "firstname": "Ding",
+            "id": 3,
+            "lastname": "Liren",
+            "rank": 2799,
+            "sexe": "M"
+        },
+        "4": {
+            "birthdate": "1990-07-14",
+            "firstname": "Ian",
+            "id": 4,
+            "lastname": "Nepomniachtchi",
+            "rank": 2792,
+            "sexe": "M"
+        },
+        "5": {
+            "birthdate": "1982-10-06",
+            "firstname": "Levon",
+            "id": 5,
+            "lastname": "Aronian",
+            "rank": 2782,
+            "sexe": "M"
+        },
+        "6": {
+            "birthdate": "1985-04-12",
+            "firstname": "Shakhriyar",
+            "id": 6,
+            "lastname": "Mamedyarov",
+            "rank": 2500,
+            "sexe": "M"
+        },
+        "7": {
+            "birthdate": "1983-10-31",
+            "firstname": "Alexander",
+            "id": 7,
+            "lastname": "Grischuk",
+            "rank": 2775,
+            "sexe": "M"
+        },
+        "8": {
+            "birthdate": "1994-06-28",
+            "firstname": "Anish",
+            "id": 8,
+            "lastname": "Giri",
+            "rank": 2777,
+            "sexe": "M"
+        }
+    },
+    "tournaments": {
+        
+    }
+}

@@ -1,0 +1,16 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__,
+    venv
+ignore = 
+    E405
+    F405
+    F403
+    F722
+    W605
+    E711
+    E501
+max-line-length = 119
+format = html
+htmldir = flake8-repport
